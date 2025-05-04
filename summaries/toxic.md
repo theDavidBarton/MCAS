@@ -40,6 +40,8 @@ Here’s a concise summary of the **key takeaways** from *"Toxic"* by Dr. Neil N
 6. **Address infections later** (Lyme, EBV, parasites) once system can tolerate treatment.
 7. **Support mitochondrial function and cellular energy** (CoQ10, B12, magnesium, NAD+).
 
+![image](toxic.png)
+
 ---
 
 ### Verdict:
